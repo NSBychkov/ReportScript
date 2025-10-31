@@ -18,7 +18,7 @@ python main.py \--files <файлы\> \--report <тип\_отчета\>
 
 ### Пример
 
-python main.py \--files products1.csv products2.csv \--report average-rating
+`python main.py \--files products1.csv products2.csv \--report average-rating`
 
 ### Результат
 
