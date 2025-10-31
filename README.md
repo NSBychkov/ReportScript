@@ -32,4 +32,4 @@ python main.py \--files <файлы\> \--report <тип\_отчета\>
 ----------
 
 *   Python 3.x
-*   CSV файлы с колонками `brand` и `rating`
+*   CSV файлы
